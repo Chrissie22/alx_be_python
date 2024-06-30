@@ -1,11 +1,11 @@
-weather = input("What's the weather like today? (sunny/rainy/cold): ")
+Weather = input("What's the weather like today? (sunny/rainy/cold): ")
 
 
-if weather == "sunny":
+if Weather == "sunny":
     print("Wear a t-shirt and sunglasses")
-elif weather == "rainy":
+elif Weather == "rainy":
     print("Dont forgrt your umbrella and raincoat")
-elif weather == "cold":
+elif Weather == "cold":
     print("Make sure to wear a warm coat and scarf.")
 else:
     print("Sorry, i don't have recommendations for this weather")
