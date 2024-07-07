@@ -7,7 +7,7 @@ def perform_operation(num1, num2, operation):
         return num1 * num2
     elif operation == "divide":
         if num2 == "0":
-            raise ValueError("Cannot divide by zero")
+            raise ValueError(f"Cannot divide by zero")
         else:
             return num1 / num2
     else:
