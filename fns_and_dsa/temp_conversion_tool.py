@@ -23,7 +23,7 @@ def main():
             result = convert_to_fahrenheit(temperature)
             print("{}°C is {}°F".format(temperature, result))
     else:
-        raise ValueError("invalid temperature. Pleease enter a numeric value")
+        raise ValueError("Invalid temperature. Please enter a numeric value.")
 
 if __name__ == "__main__":
     main()
