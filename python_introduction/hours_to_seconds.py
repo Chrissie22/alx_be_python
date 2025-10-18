@@ -1,3 +1,7 @@
 hours = 2
-seconds = 3600 * hours
-print(f"2 hour(s) is {seconds} seconds")
+hour = 60
+minute = 60
+second = 60
+seconds = minute * hour * hours
+
+print(f"{hours} hour(s) is {seconds}seconds")
