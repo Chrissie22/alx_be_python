@@ -139,8 +139,6 @@ This is the most critical concept for new Python developers.
 
 ---
 
----
-
 ## 7. Conclusion & Connect With Me
 
 Thank you for reviewing this guide. A strong foundation in algorithms, data structures, and core language features is essential for any engineer, and I am committed to practicing and demonstrating these fundamentals in all my work.
